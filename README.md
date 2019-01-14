@@ -3,7 +3,7 @@ Adds information about your TXU Energy bill to Home Assistant
 
 To use:
 
-Add this to custom_components in your Home Assistant home directory, then add this to your configuration.yaml with your username and password:
+Add txu_bill.py to custom_components in your Home Assistant home directory, then add this to your configuration.yaml with your username and password:
 
 ```
 txu_bill:
